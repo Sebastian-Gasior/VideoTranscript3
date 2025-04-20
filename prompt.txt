@@ -1,0 +1,11 @@
+Erstelle eine strukturierte Zusammenfassung des folgenden Video-Transkripts. Die Zusammenfassung soll folgende Aspekte enthalten:
+
+1. Hauptthema und Kernaussage (2-3 Sätze)
+2. Wichtigste Argumente und Erkenntnisse (stichpunktartig)
+3. Fazit und praktische Anwendbarkeit (1-2 Absätze)
+4. Schreibe alles in deutscher Sprache
+
+Hier ist das Transkript:
+{transcript}
+
+Bitte formuliere die Zusammenfassung in einem professionellen, sachlichen Stil. Verwende keine Füllwörter oder umgangssprachliche Ausdrücke.
