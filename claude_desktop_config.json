@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "VideoTranscript3": {
+      "command": "python",
+      "args": [
+        "-m",
+        "mcp",
+        "run",
+        "mcp_server.py"
+      ],
+      "cwd": "C:\\DEIN_PFAD_ZU_DEISEM_PROJEKT\\VideoTranscript3",
+      "options": {
+        "shell": true,
+        "windowsHide": true
+      }
+    }
+  }
+}
