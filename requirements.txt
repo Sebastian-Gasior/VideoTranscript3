@@ -1,0 +1,7 @@
+mcp>=1.6.0
+flask==3.0.2
+yt-dlp==2024.3.10
+openai-whisper==20231117
+python-dotenv==1.0.1
+pathlib==1.0.1
+tqdm==4.66.2
