@@ -1,0 +1,9 @@
+# Lokale Videodateien
+
+
+# YouTube URLs
+https://www.youtube.com/watch?v=-8k9lGpGQ6g
+
+
+# Kommentare werden ignoriert
+# Leere Zeilen werden übersprungen
